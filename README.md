@@ -22,9 +22,10 @@ A clean and aesthetic to-do list web application designed to help users manage t
 - Tasks remain saved even after page refresh using localStorage
 
 ## Live Demo
+https://sanchita-inloop.github.io/Todo_list-website/
 
 ## Screenshot
-
+https://github.com/Sanchita-InLoop/Todo_list-website/blob/main/screenshot.png
 
 ## Screenshot
 ![To-Do List Preview](assets/screenshot.png)
